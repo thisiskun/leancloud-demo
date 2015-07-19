@@ -1,0 +1,8 @@
+{
+    "applicationName" : "foobar",
+    "applicationId": "v3lkjev84j5jxweh6rkdgto59mtwnwbtfcuxy9lw6x8xjv09",
+    "applicationKey": "utlubjndsgwctvgb32ga7dfajgf910cxw10jz85jiqr4d5h1",
+    "global": {
+        "avVersion": "0.3.1"
+    }
+}
